@@ -18,7 +18,7 @@
 
 
 **На основе полученного алгоритма составляем программу:**
-//Создадим функцию
+~~~
 void GetArray()
     {
     string[] arrayInput = new string[5];
@@ -50,3 +50,4 @@ void GetArray()
     }
 
 GetArray();
+~~~
